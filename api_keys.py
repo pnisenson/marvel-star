@@ -1,2 +1,0 @@
-pub_key = "75ce52645385555bca4dee3b6812b1b3"
-priv_key = "10ad3bc4b19e7433609b326284eccc57608e5484"
