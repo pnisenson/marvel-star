@@ -1,0 +1,29 @@
+,Title,Box Office (in 000s)), release_date,chronology,duration
+0,Iron Man,585171547,2008-05-02,3.0,126
+1,The Incredible Hulk,265573859,2008-06-13,5.0,112
+2,Iron Man 2,621156389,2010-05-07,4.0,124
+3,Thor,449326618,2011-05-06,6.0,115
+4,Captain America: The First Avenger,370569776,2011-07-22,1.0,124
+5,The Avengers,1517935897,2012-05-04,7.0,143
+6,Iron Man 3,1215392272,2013-05-03,8.0,130
+7,Thor: The Dark World,644602516,2013-11-08,9.0,112
+8,Captain America: The Winter Soldier,714401889,2014-04-04,10.0,136
+9,Guardians of the Galaxy,770867516,2014-08-01,11.0,121
+10,Avengers: Age of Ultron,1403013963,2015-05-01,13.0,141
+11,Ant-Man,518858449,2015-07-17,14.0,117
+12,Captain America: Civil War,1140069413,2016-05-06,15.0,147
+13,Doctor Strange,676404566,2016-11-04,18.0,115
+14,Guardians of the Galaxy Vol. 2,862316233,2017-05-05,12.0,136
+15,Spider-Man: Homecoming,880166350,2017-07-07,17.0,133
+16,Thor: Ragnarok,846980024,2017-11-03,19.0,130
+17,Black Panther,1348258224,2018-02-16,16.0,134
+18,Avengers: Infinity War,2048134200,2018-04-27,20.0,149
+19,Ant-Man and The Wasp,623144660,2018-07-06,21.0,125
+20,Captain Marvel,1126129839,2019-03-08,2.0,125
+21,Avengers: Endgame,2795465685,2019-04-26,22.0,182
+22,Spider-Man: Far From Home,1123901180,2019-07-02,23.0,129
+23,Black Widow,0,2020-11-06,,0
+24,The Eternals,0,2021-02-12,,0
+25,Shang-Chi and the Legend of the Ten Rings,0,2021-05-07,,0
+26,Doctor Strange in the Multiverse of Madness,0,2022-03-25,,0
+27,Thor: Love and Thunder,0,2022-02-11,,0
