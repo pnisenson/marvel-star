@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Zip,lat,lng,city,state_id,State
+=======
+﻿zip,lat,lng,city,state_id,state_name
+>>>>>>> PaulN
 601,18.18004,-66.75218,Adjuntas,PR,Puerto Rico
 602,18.36073,-67.17517,Aguada,PR,Puerto Rico
 603,18.45439,-67.12202,Aguadilla,PR,Puerto Rico
@@ -33097,6 +33101,7 @@
 99926,55.12617,-131.48928,Metlakatla,AK,Alaska
 99927,56.251,-133.37571,Point Baker,AK,Alaska
 99929,56.3695,-131.93648,Wrangell,AK,Alaska
+<<<<<<< HEAD
 =======
 ﻿Zipcode,lat,lng,city,state_id,state_name,zcta,parent_zcta
 601,18.18004,-66.75218,Adjuntas,PR,Puerto Rico,TRUE,
@@ -66197,3 +66202,5 @@
 99927,56.251,-133.37571,Point Baker,AK,Alaska,TRUE,
 99929,56.3695,-131.93648,Wrangell,AK,Alaska,TRUE,
 >>>>>>> pauline
+=======
+>>>>>>> PaulN
