@@ -1,6 +1,6 @@
 # marvel-star
 
-This repository represents the group project by the Marvelous Data Miners team. Using Pandas, Jupyter Notebook, API calls, and other tools, the group has ventured to determine which Marvel Comic character should be the next featured character in the Marvel Cinematic Universe (MCU). 
+This repository represents the group project by the Marvelous Data Miners team (@pnisenson, @aditirai3, @eaogidan-2020, @pambaza). Using Pandas, Jupyter Notebook, API calls, and other tools, the group has ventured to determine which Marvel Comic character should be the next featured character in the Marvel Cinematic Universe (MCU). 
 
 The repo contains the following files/directories:
 1.  Working File Directories for group members. Each of these directories has different files representing non-finished working files. This includes code, output and input files and other "test" files that were used in developing the final product.
